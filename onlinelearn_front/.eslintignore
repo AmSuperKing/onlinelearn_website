@@ -1,0 +1,8 @@
+/build/
+/config/
+/dist/
+/*.js
+/src/assets/bootstrap3/css
+/src/assets/bootstrap3/js
+/src/assets/bootstrap3/fonts
+/src/assets/js/flv.min.js
